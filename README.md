@@ -1,6 +1,6 @@
 1.The app is to display list of users and on click of each user item it navigates to User's details and it has two screens
-a. A list view displaying a list of users.
-b. A detailed screen displaying each User's details.
+ a. A list view displaying a list of users.
+ b. A detailed screen displaying each User's details.
 2. To display a list of users I have used public API URL.
 3. Combine framework is used to make remote API calls.
 4. Design Pattern And Architecture used - MMMV + Clean, for the folder structure is Data,Domain,Presentation
