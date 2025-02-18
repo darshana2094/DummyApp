@@ -8,7 +8,6 @@
 import SnapshotTesting
 import XCTest
 import SwiftUI
-import Combine
 @testable import DummyApp
 
 final class UserListViewTests: XCTestCase {
