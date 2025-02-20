@@ -39,7 +39,7 @@ The app uses Swift Package Manager (SPM) for dependencies. Open the project in X
 🧪 Testing
 This project includes:
 1. Unit Tests
-2. Snapshot testing.
+2. Snapshot testing(tested on iPhone 16 with iOS 18.2)
 ✅ Run Tests
 Cmd + U
 
